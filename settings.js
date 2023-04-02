@@ -21,8 +21,8 @@ global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['0754680518'] //ur owner number
-global.ownername = "🇦 🇧 🇩 🇺 " //ur owner name
-global.ytname = "YT: Vip Abdu" //ur yt chanel name
+global.ownername = "ABDU " //ur owner name
+global.ytname = "YT:Vip Abdu" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -31,7 +31,7 @@ global.session = "Y3JDQmFZQlc=" //session Id
 global.ownernomer = "94754680518" //ur number
 global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94754680518'] //ur premium number
-global.botname = 'ABDU ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.botname = 'ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
